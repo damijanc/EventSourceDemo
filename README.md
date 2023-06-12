@@ -18,61 +18,61 @@ array(2) {
   ["eventType"]=>
   string(4) "data"
   ["data"]=>
-  string(23) "{"offer":{"id":"id_0"}}"
+  string(23) "{"message":{"id":"id_0"}}"
 }
 array(2) {
   ["eventType"]=>
   string(4) "data"
   ["data"]=>
-  string(23) "{"offer":{"id":"id_1"}}"
+  string(23) "{"message":{"id":"id_1"}}"
 }
 array(2) {
   ["eventType"]=>
   string(4) "data"
   ["data"]=>
-  string(23) "{"offer":{"id":"id_2"}}"
+  string(23) "{"message":{"id":"id_2"}}"
 }
 array(2) {
   ["eventType"]=>
   string(4) "data"
   ["data"]=>
-  string(23) "{"offer":{"id":"id_3"}}"
+  string(23) "{"message":{"id":"id_3"}}"
 }
 array(2) {
   ["eventType"]=>
   string(4) "data"
   ["data"]=>
-  string(23) "{"offer":{"id":"id_4"}}"
+  string(23) "{"message":{"id":"id_4"}}"
 }
 array(2) {
   ["eventType"]=>
   string(4) "data"
   ["data"]=>
-  string(23) "{"offer":{"id":"id_5"}}"
+  string(23) "{"message":{"id":"id_5"}}"
 }
 array(2) {
   ["eventType"]=>
   string(4) "data"
   ["data"]=>
-  string(23) "{"offer":{"id":"id_6"}}"
+  string(23) "{"message":{"id":"id_6"}}"
 }
 array(2) {
   ["eventType"]=>
   string(4) "data"
   ["data"]=>
-  string(23) "{"offer":{"id":"id_7"}}"
+  string(23) "{"message":{"id":"id_7"}}"
 }
 array(2) {
   ["eventType"]=>
   string(4) "data"
   ["data"]=>
-  string(23) "{"offer":{"id":"id_8"}}"
+  string(23) "{"message":{"id":"id_8"}}"
 }
 array(2) {
   ["eventType"]=>
   string(4) "data"
   ["data"]=>
-  string(23) "{"offer":{"id":"id_9"}}"
+  string(23) "{"message":{"id":"id_9"}}"
 }
-Done fetching offers
+Done fetching messages
 ```
