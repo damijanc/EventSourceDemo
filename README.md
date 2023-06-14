@@ -18,5 +18,5 @@ Open http://localhost:8080
 # Standalone client demo:
 
 ```
-docker-compose run php php guzzle.php
+docker-compose run php php cliClient.php
 ```
