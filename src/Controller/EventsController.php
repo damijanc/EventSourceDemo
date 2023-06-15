@@ -14,7 +14,7 @@ class EventsController extends AbstractController
     {
         return new StreamedResponse(
             function () {
-                for ($i = 0; $i < 10; $i++) {
+                for ($i = 0; $i < 1000; $i++) {
                     $this->sendData(json_encode([
                         'message' => [
                             'id' => sprintf('id_%d', $i),
